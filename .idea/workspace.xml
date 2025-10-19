@@ -4,7 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="4ff056fe-3e57-4497-afab-40fac8b76be4" name="Changes" comment="Adding calculator execute class.&#10;Adding calculator java archiver JAR">
+    <list default="true" id="4ff056fe-3e57-4497-afab-40fac8b76be4" name="Changes" comment="Update pom.xml to specify Java 21">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
     </list>
@@ -157,7 +157,7 @@
       <workItem from="1760891774555" duration="1122000" />
       <workItem from="1760893333108" duration="7084000" />
       <workItem from="1760904197634" duration="2177000" />
-      <workItem from="1760906461491" duration="2425000" />
+      <workItem from="1760906461491" duration="4238000" />
     </task>
     <task id="LOCAL-00001" summary="Adding calculator class and unit tests.">
       <option name="closed" value="true" />
@@ -183,7 +183,15 @@
       <option name="project" value="LOCAL" />
       <updated>1760906757800</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="Update pom.xml to specify Java 21">
+      <option name="closed" value="true" />
+      <created>1760909830697</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1760909830697</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -204,6 +212,7 @@
     <MESSAGE value="Adding calculator class and unit tests." />
     <MESSAGE value="Supporting parameters unit tests." />
     <MESSAGE value="Adding calculator execute class.&#10;Adding calculator java archiver JAR" />
-    <option name="LAST_COMMIT_MESSAGE" value="Adding calculator execute class.&#10;Adding calculator java archiver JAR" />
+    <MESSAGE value="Update pom.xml to specify Java 21" />
+    <option name="LAST_COMMIT_MESSAGE" value="Update pom.xml to specify Java 21" />
   </component>
 </project>
