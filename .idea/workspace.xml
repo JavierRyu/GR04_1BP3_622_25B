@@ -4,10 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="4ff056fe-3e57-4497-afab-40fac8b76be4" name="Changes" comment="Supporting parameters unit tests.">
-      <change afterPath="$PROJECT_DIR$/src/main/java/epn/gr04/calculator/CalculatorExecute.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+    <list default="true" id="4ff056fe-3e57-4497-afab-40fac8b76be4" name="Changes" comment="Adding calculator execute class.&#10;Adding calculator java archiver JAR">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -158,7 +157,7 @@
       <workItem from="1760891774555" duration="1122000" />
       <workItem from="1760893333108" duration="7084000" />
       <workItem from="1760904197634" duration="2177000" />
-      <workItem from="1760906461491" duration="109000" />
+      <workItem from="1760906461491" duration="2425000" />
     </task>
     <task id="LOCAL-00001" summary="Adding calculator class and unit tests.">
       <option name="closed" value="true" />
@@ -176,7 +175,15 @@
       <option name="project" value="LOCAL" />
       <updated>1760899131587</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="Adding calculator execute class.&#10;Adding calculator java archiver JAR">
+      <option name="closed" value="true" />
+      <created>1760906757800</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1760906757800</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -196,6 +203,7 @@
   <component name="VcsManagerConfiguration">
     <MESSAGE value="Adding calculator class and unit tests." />
     <MESSAGE value="Supporting parameters unit tests." />
-    <option name="LAST_COMMIT_MESSAGE" value="Supporting parameters unit tests." />
+    <MESSAGE value="Adding calculator execute class.&#10;Adding calculator java archiver JAR" />
+    <option name="LAST_COMMIT_MESSAGE" value="Adding calculator execute class.&#10;Adding calculator java archiver JAR" />
   </component>
 </project>
