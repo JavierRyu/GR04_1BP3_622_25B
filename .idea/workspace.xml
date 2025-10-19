@@ -4,9 +4,16 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="4ff056fe-3e57-4497-afab-40fac8b76be4" name="Changes" comment="Update pom.xml to specify Java 21">
+    <list default="true" id="4ff056fe-3e57-4497-afab-40fac8b76be4" name="Changes" comment="Set Java version to 17 in pom.xml">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/epn/gr04/calculator/CalculatorExecute.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/epn/gr04/calculator/CalculatorExecute.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/GR04_1BP3_622_25B-1.0-SNAPSHOT.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/epn/gr04/calculator/CalculatorExecute.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/epn/gr04/calculator/CalculatorExecute.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/maven-archiver/pom.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/surefire-reports/TEST-epn.gr04.calculator.CalculatorParameterizedTest.xml" beforeDir="false" afterPath="$PROJECT_DIR$/target/surefire-reports/TEST-epn.gr04.calculator.CalculatorParameterizedTest.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/surefire-reports/TEST-epn.gr04.calculator.CalculatorTest.xml" beforeDir="false" afterPath="$PROJECT_DIR$/target/surefire-reports/TEST-epn.gr04.calculator.CalculatorTest.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/surefire-reports/epn.gr04.calculator.CalculatorParameterizedTest.txt" beforeDir="false" afterPath="$PROJECT_DIR$/target/surefire-reports/epn.gr04.calculator.CalculatorParameterizedTest.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/surefire-reports/epn.gr04.calculator.CalculatorTest.txt" beforeDir="false" afterPath="$PROJECT_DIR$/target/surefire-reports/epn.gr04.calculator.CalculatorTest.txt" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -157,7 +164,7 @@
       <workItem from="1760891774555" duration="1122000" />
       <workItem from="1760893333108" duration="7084000" />
       <workItem from="1760904197634" duration="2177000" />
-      <workItem from="1760906461491" duration="4238000" />
+      <workItem from="1760906461491" duration="5392000" />
     </task>
     <task id="LOCAL-00001" summary="Adding calculator class and unit tests.">
       <option name="closed" value="true" />
@@ -191,7 +198,15 @@
       <option name="project" value="LOCAL" />
       <updated>1760909830697</updated>
     </task>
-    <option name="localTasksCounter" value="5" />
+    <task id="LOCAL-00005" summary="Set Java version to 17 in pom.xml">
+      <option name="closed" value="true" />
+      <created>1760911879862</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1760911879862</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -213,6 +228,7 @@
     <MESSAGE value="Supporting parameters unit tests." />
     <MESSAGE value="Adding calculator execute class.&#10;Adding calculator java archiver JAR" />
     <MESSAGE value="Update pom.xml to specify Java 21" />
-    <option name="LAST_COMMIT_MESSAGE" value="Update pom.xml to specify Java 21" />
+    <MESSAGE value="Set Java version to 17 in pom.xml" />
+    <option name="LAST_COMMIT_MESSAGE" value="Set Java version to 17 in pom.xml" />
   </component>
 </project>
